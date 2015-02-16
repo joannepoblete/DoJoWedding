@@ -1,0 +1,46 @@
+{
+  "name": "DoJoWedding",
+  "version": "0.0.1",
+  "authors": [
+    "Jo Anne Poblete <jo.anne.poblete@gmail.com>"
+  ],
+  "description": "Doug and Jo Anne's wedding information: biographies, venue, logistics, registry.",
+  "main": "index.htm",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "doug",
+    'van',
+    'sant',
+    'jo',
+    'anne',
+    'poblete',
+    'wedding',
+    'information',
+    'details',
+    'location',
+    'venue',
+    'history',
+    'registry',
+    'guest'
+  ],
+  "license": "MIT",
+  "homepage": "http://www.dojowedding.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.3",
+    "grunt": "~0.4.5",
+    "jquery": "~2.1.3"
+  }
+}
